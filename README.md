@@ -4,10 +4,20 @@ Jogo da Adivinhação em Python
 Projeto criado para praticar lógica de programação.
 
 Funcionalidades:
-- Sistema de dificuldade
-- Contador de tentativas
+- Número aleatório gerado automaticamente
+
+- Sistema de dificuldade (Fácil, Médio e Difícil)
+
+- Sistema de vidas (limite de tentativas)
+
 - Opção de jogar novamente
-- Número aleatório
+
+- Sistema de recorde (menor número de tentativas)
+
+- Tratamento de erros para entradas inválidas
 
 Tecnologia utilizada:
-- Python
+- Python 3
+--------------------------------------------------------------------------
+- Projeto criado como parte do meu processo de aprendizado em programação
+--------------------------------------------------------------------------
